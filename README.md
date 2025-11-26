@@ -18,4 +18,4 @@ Multiple zips, the raw material from cnadidates.
 
 The processed files of 5 categories:
 
-    Each category contains multiple folders which is for every candidates, including all relevant images; and a summary file in word format.
+Each category contains multiple folders which is for every candidates, including all relevant images; and a summary file in word format.
